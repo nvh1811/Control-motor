@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=BTN1 Pin=B1-1
+Removed Pin From Net: NetName=GND Pin=B1-2
+Removed Pin From Net: NetName=BTN2 Pin=B2-1
+Removed Pin From Net: NetName=GND Pin=B2-2
+Removed Member From Class: ClassName=sche Member=B1
+Removed Member From Class: ClassName=sche Member=B2
+Added Component: Designator=P1(Pad_1)
+Added Component: Designator=P2(Pad_1)
+Added Component: Designator=P3(Pad_1)
+Added Pin To Net: NetName=BTN1 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=BTN2 Pin=P3-1
+Added Member To Class: ClassName=sche Member=Component P1 Pad_1
+Added Member To Class: ClassName=sche Member=Component P2 Pad_1
+Added Member To Class: ClassName=sche Member=Component P3 Pad_1
+Added Room: Name=sche

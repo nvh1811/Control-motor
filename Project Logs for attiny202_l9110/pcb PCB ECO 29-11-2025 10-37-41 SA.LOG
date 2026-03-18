@@ -1,0 +1,87 @@
+Added Component: Designator=B1(BUTTON 3x4x2)
+Added Component: Designator=B2(BUTTON 3x4x2)
+Added Component: Designator=B3(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ATTINY202-SSNR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/attiny202-ssnr/microchip-technology?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny202-402-AVR-MCU-with-Core-Independent-Peripherals_and-picoPower-40001969A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ATTINY202-SSNR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-ATTINY202-SSNR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ATTINY202-SSNR?qs=y6ZabgHbY%252Bx90fzudZ0SuA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B4(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/Wuxi-Zhongwei-Aisin-Elec-L9110S_C85174.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wuxi I-core Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "L9110S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP 0603)
+Add component (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP 0603)
+Add component (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Added Component: Designator=INPUT(JUMP_3_V)
+Added Component: Designator=Motor(JUMP_2_V)
+Added Component: Designator=R1(RES 0603)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES 0603)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES 0603)
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES 0603)
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=UPDI(TEST)
+Added Pin To Net: NetName=5V Pin=B3-1
+Added Pin To Net: NetName=5V Pin=B4-2
+Added Pin To Net: NetName=5V Pin=B4-3
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=5V Pin=INPUT-2
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=5V Pin=R2-1
+Added Net: Name=5V
+Added Pin To Net: NetName=BTN1 Pin=B1-1
+Added Pin To Net: NetName=BTN1 Pin=B3-7
+Added Pin To Net: NetName=BTN1 Pin=R1-2
+Added Net: Name=BTN1
+Added Pin To Net: NetName=BTN2 Pin=B2-1
+Added Pin To Net: NetName=BTN2 Pin=B3-5
+Added Pin To Net: NetName=BTN2 Pin=R2-2
+Added Net: Name=BTN2
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=GND Pin=B2-2
+Added Pin To Net: NetName=GND Pin=B3-8
+Added Pin To Net: NetName=GND Pin=B4-5
+Added Pin To Net: NetName=GND Pin=B4-8
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=INPUT-1
+Added Net: Name=GND
+Added Pin To Net: NetName=IN1 Pin=B3-2
+Added Pin To Net: NetName=IN1 Pin=B4-7
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=B3-3
+Added Pin To Net: NetName=IN2 Pin=B4-6
+Added Net: Name=IN2
+Added Pin To Net: NetName=NetB3_4 Pin=B3-4
+Added Pin To Net: NetName=NetB3_4 Pin=R3-2
+Added Net: Name=NetB3_4
+Added Pin To Net: NetName=NetB3_6 Pin=B3-6
+Added Pin To Net: NetName=NetB3_6 Pin=R4-1
+Added Net: Name=NetB3_6
+Added Pin To Net: NetName=NetB4_1 Pin=B4-1
+Added Pin To Net: NetName=NetB4_1 Pin=C2-1
+Added Pin To Net: NetName=NetB4_1 Pin=Motor-1
+Added Net: Name=NetB4_1
+Added Pin To Net: NetName=NetB4_4 Pin=B4-4
+Added Pin To Net: NetName=NetB4_4 Pin=C2-2
+Added Pin To Net: NetName=NetB4_4 Pin=Motor-2
+Added Net: Name=NetB4_4
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=UPDI-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=Pulse_Input Pin=INPUT-3
+Added Pin To Net: NetName=Pulse_Input Pin=R3-1
+Added Net: Name=Pulse_Input
+Added Class: Name=sche
+Added Room: Name=sche

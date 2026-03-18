@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=INPUT-1
+Removed Pin From Net: NetName=Pulse_Input Pin=INPUT-3
+Change Component Footprint: Designator=Motor Old Footprint=JUMP_2_V New Footprint=PAD_2_2.54
+Change Component Footprint: Designator=INPUT Old Footprint=JUMP_3_V New Footprint=Pad_3_2.54
+Change Component Comment : Designator=Motor Old Comment=Header_2P New Comment=Pad_2
+Change Component Comment : Designator=INPUT Old Comment=Header_3P New Comment=Pad_3
+Added Pin To Net: NetName=Pulse_Input Pin=INPUT-1
+Added Pin To Net: NetName=GND Pin=INPUT-3
+Added Room: Name=sche

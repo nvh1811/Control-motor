@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [attiny202_l9110.PrjPcb]
+   Generated File[PCB1-v2.TXT]
+   Generated File[PCB1-v2.LDP]
+   Generated File[PCB1-v2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:18:06 CH On 03/02/2026
